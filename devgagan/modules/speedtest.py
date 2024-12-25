@@ -2,7 +2,7 @@
 #GitHub/devgaganin
 
 from time import time
-from speedtest import Speedtest
+#from speedtest import Speedtest
 import math
 from telethon import events
 from devgagan import botStartTime
